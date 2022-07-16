@@ -1,3 +1,5 @@
+package JavaTut.builtin;
+
 public class UnbelievableDisgustingTypecasting {
     public static void main(String[] args) {
         var longnum = 10L;

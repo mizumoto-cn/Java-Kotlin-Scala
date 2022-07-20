@@ -1,4 +1,4 @@
-package JavaTut.builtin;
+package javatut.builtin;
 
 public class UnbelievableDisgustingTypecasting {
     public static void main(String[] args) {

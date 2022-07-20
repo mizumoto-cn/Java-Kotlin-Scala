@@ -1,4 +1,4 @@
-package JavaTut.Lambda;
+package javatut.lambda;
 
 public class lambda {
     

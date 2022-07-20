@@ -1,4 +1,4 @@
-package JavaTut.builtin;
+package javatut.builtin;
 
 public class BuiltinTypes {
     public static char[] HowIsJava = {'B', 'u', 'l', 'l', 's', 'h', 'i', 't'};

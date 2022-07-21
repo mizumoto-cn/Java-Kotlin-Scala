@@ -4,5 +4,8 @@
     ],
     "cSpell.words": [
         "javatut"
-    ]
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }

@@ -1,2 +1,6 @@
 .metals
 *.db
+*.jar
+*.class
+META-INF
+*.kotlin_module
